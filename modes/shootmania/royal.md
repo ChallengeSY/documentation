@@ -19,11 +19,10 @@ The rules are not so simple. At the beginning of each round, players start at th
 
 Once the goal post has been captured, further respawning is disabled, and a tornado is activated, slowly shrinking the playfield in the process until the space around the goal post is minimal. Players caught outside the tornado are eliminated.
 
-The round ends when either only one player remains, or when time expires after the playfield size has been minimized. Afterwards, all the points earned during the round are totaled up, and the next round begins, assuming the goal is not reached.
+The round ends when either only one player remains, or when time expires after the playfield size has been minimized. All the points earned during the round, be it from connecting hits, surviving longer in a round, or capturing, are totaled up. Assuming the match goal is not reached, the next round then begins.
 
 ## Tips
 
-* Points are earned for connecting hits, surviving longer than other players, and capturing poles
 * Normally, a player has two armor at the start of each round. Players that get eliminated before goal capture respawn with one armor
 
 ## Map validation
