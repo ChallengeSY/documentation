@@ -17,7 +17,9 @@ Joust is a mode where two players battle alone in a small arena to score hits an
 
 The rules are not so simple. At the beginning of each round, players start at the spawn with no ammunition. To charge ammo, a player must touch one of the goal posts.
 
-Once a player has touched a goal post, their ammo is fully charged, and all goal posts belonging to the touched group are deactivated. If a player wishes to recharge their ammo, they must touch a goal post belonging to the opposide group. Players alternate goal groups as needed to recharge their ammo.
+Once a player has touched a goal post, their ammo is fully charged, and all goal posts belonging to the touched group are deactivated for that player.
+
+If a player wishes to recharge their ammo, they must touch a goal post belonging to the opposide group. Players must alternate goal groups to recharge their ammo and avoid premature elimination.
 
 Players need to connect the required number of hits on their opponent to win the round. There are a few complications to this goal:
 
@@ -28,7 +30,6 @@ Players need to connect the required number of hits on their opponent to win the
 
 * Be mindful of both your ammo and your opponent's ammo
 * You can attempt to starve an opponent of their recharge by staying near a goal post. This is less effective on maps with multiple goal posts
-* Players that last 45 seconds without charging their ammo are eliminated from the round, regardless of score
 * Respawning and contact with off-zone will score your opponent one hit, while depleting you of your ammo when you respawn. Which goal group you last touched is also forgotten, allowing contact with any goal post to recharge
 
 ## Map validation
