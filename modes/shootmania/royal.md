@@ -17,7 +17,7 @@ Royal is a mode where players must score as many points as they can before the m
 
 The rules are not so simple. At the beginning of each round, players start at the spawns and attempt to push towards the goal post, exchanging shots with each other on the way.
 
-Once the goal post has been captured, further respawning is disabled, and a tornado is activated, slowly shrinking the playfield in the process until the space around the goal post is minimal. Players caught outside the tornado are eliminated.
+Once the goal post has been captured, further respawning is disabled. A tornado is then activated, slowly shrinking the playfield in the process until the space around the goal post is minimal. Players caught outside the tornado are eliminated.
 
 The round ends when either only one player remains, or when time expires after the playfield size has been minimized. All the points earned during the round, be it from connecting hits, surviving longer in a round, or capturing, are totaled up. Assuming the match goal is not reached, the next round then begins.
 
